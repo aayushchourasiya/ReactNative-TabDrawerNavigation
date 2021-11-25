@@ -1,0 +1,14 @@
+com/tabanddrawer/BuildConfig.java
+ com.tabanddrawer.BuildConfig
+com/tabanddrawer/ReactNativeFlipper.java
+ com.tabanddrawer.ReactNativeFlipper
+ com.tabanddrawer.ReactNativeFlipper$1
+ com.tabanddrawer.ReactNativeFlipper$2
+ com.tabanddrawer.ReactNativeFlipper$2$1
+com/tabanddrawer/MainApplication.java
+ com.tabanddrawer.MainApplication
+ com.tabanddrawer.MainApplication$1
+com/tabanddrawer/MainActivity.java
+ com.tabanddrawer.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
